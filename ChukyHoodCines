@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 01-11-2024)",
+    "author": "chuky (Haz-Tu-Liada a 02-11-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -16,9 +16,14 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
-                                    "name" : "Transformers One (2024)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
-        "image" : "https://www.elseptimoarte.net/carteles/341/transformers_one_102146.jpg",
-        "url" : "https://lulu.st/d/z4vd5ykkncni",
+                             "name" : "El fantasma de Canterville (2023)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/el_fantasma_de_canterville_100106.jpg",
+        "url" : "https://lulu.st/e/jri048rbe3kj",
+        "isHost" : "true" 
+                            },{  
+                                    "name" : "La sustancia (2024)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​© LAT BR-Screen",
+        "image" : "https://www.elseptimoarte.net/carteles/341/la_sustancia_102739.jpg",
+        "url" : "https://lulu.st/e/cmru5q0w3vwd",
         "isHost" : "true" 
                             },{  
                                 "name" : "Robot salvaje (2024)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​© LAT",
@@ -36,9 +41,9 @@
         "url" : "https://file-zz40pd56-embed.com/ptsd/jruar56klxo3_x",
         "isHost" : "true" 
                             },{  
-                             "name" : "Joker: Folie à deux (2024) CAM 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                             "name" : "Joker: Folie à deux (2024)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://www.elseptimoarte.net/carteles/341/joker_folie_a_deux_102416.jpg",
-        "url" : "https://file-zz40pd56-embed.com/ptsd/q1pa305jp9z1",
+        "url" : "https://lulu.st/e/3uhgsrcatdgp",
         "isHost" : "true" 
                             },{  
                             "name" : " Una aventura en Marruecos  (2024) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",

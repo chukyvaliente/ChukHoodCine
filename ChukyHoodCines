@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 19-11-2024)",
+    "author": "chuky (Haz-Tu-Liada a 20-11-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+rvlnLxcvsGY1NmZk",
@@ -209,12 +209,7 @@
                   "name" : "Tarot (2024) ",
         "image" : "https://pics.filmaffinity.com/tarot-256287294-mmed.jpg",
         "url" : "https://file-zz40pd56-embed.com/ptsd/d3wkx8r1m9ps",
-        "isHost" : "true" 
-                   },{     
-                   "name" : "Furiosa: De la saga Mad Max (2024) ",
-        "image" : "https://www.elseptimoarte.net/carteles/341/furiosa_de_la_saga_mad_max_101185.jpg",
-        "url" : "https://file-zz40pd56-embed.com/ptsd/jypa934xs6o2",
-        "isHost" : "true" 
+        "isHost" : "true"
                    },{     
                        "name" : "Godzilla y Kong: El nuevo imperio (2024)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://www.elseptimoarte.net/carteles/341/godzilla_y_kong_el_nuevo_imperio_100479.jpg",
@@ -733,17 +728,17 @@
                 },{
                     "name": "La saga Crepusculo: Eclipse",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_saga_crepusculo_eclipse_4823.jpg",
-                    "url": "https://upstream.to/qpmemtwf6pcm",
+                    "url": "https://file-zz40pd56-embed.com/ptsd/0krexn2gt9j3",
                     "isHost":"true"
                 },{
                     "name": "La saga Crepusculo: Amanecer - Parte 1",
                     "image": "https://www.elseptimoarte.net/carteles/442/la_saga_crepusculo_amanecer_parte_1_11234.jpg",
-                    "url": "https://upstream.to/lwtncznslu5f",
+                    "url": "https://file-zz40pd56-embed.com/ptsd/ryobqdv8p8jg",
                     "isHost":"true"
                 },{
                  "name": "La saga Crepusculo: Amanecer - Parte 2",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_saga_crepusculo_amanecer_parte_2_15266.jpg",
-                    "url": "https://upstream.to/t0ap6g8nqyh4",
+                    "url": "https://file-zz40pd56-embed.com/ptsd/fs3jn72sef3g",
                      "isHost":"true"
                                   },{
                        "name": "No respires (2016)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
@@ -1065,6 +1060,36 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/los_juegos_del_hambre_sinsajo_parte_2_43915.jpg",
                     "url": "https://upstream.to/kmqku6bfqd0r",
                      "isHost":"true"
+                   },{ 
+                          "name": "Los juegos del hambre: Balada de pájaros cantores y serpientes (2023)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_juegos_del_hambre_balada_de_pajaros_cantores_y_serpientes_99184.jpg",
+                   "url" :  "https://upstream.to/cjsq35kdzrzq",
+			 "isHost":"true"
+                    },{
+                    "name": "Mad Max. Salvajes de autopista (1979)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                    "image": "https://pics.filmaffinity.com/mad_max-632940430-mmed.jpg",
+                    "url": "https://asnwish.com/e/yb64neez6wim",
+                     "isHost":"true"
+                },{
+                 "name": "Mad Max 2. El guerrero de la carretera (1981)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                    "image": "https://pics.filmaffinity.com/mad_max_2_the_road_warrior-638819106-mmed.jpg",
+                    "url": "https://asnwish.com/e/grh29lmrgjj4",
+                     "isHost":"true"
+                },{
+                    "name": "Mad Max 3. Más allá de la cúpula del trueno (1985)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                    "image": "https://pics.filmaffinity.com/mad_max_beyond_thunderdome-591668589-mmed.jpg",
+                    "url": "https://asnwish.com/e/yb64neez6wim",
+                     "isHost":"true"
+                },{
+                 "name": "Mad Max: Furia en la carretera (2015)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                    "image": "https://pics.filmaffinity.com/mad_max_fury_road-429261909-mmed.jpg",
+                    "url": "https://file-zz40pd56-embed.com/ptsd/n9xvhkjepuf0",
+                     "isHost":"true"
+                   },{     
+                   "name" : "Furiosa: De la saga Mad Max (2024) ",
+        "image" : "https://www.elseptimoarte.net/carteles/341/furiosa_de_la_saga_mad_max_101185.jpg",
+        "url" : "https://file-zz40pd56-embed.com/ptsd/jypa934xs6o2",
+        "isHost" : "true" 
                    },{ 
                           "name": "Los juegos del hambre: Balada de pájaros cantores y serpientes (2023)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
                     "image": "https://www.elseptimoarte.net/carteles/341/los_juegos_del_hambre_balada_de_pajaros_cantores_y_serpientes_99184.jpg",
@@ -7131,6 +7156,16 @@
                       "name": "La Navidad en sus manos (2023)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_navidad_en_sus_manos_99494.jpg",
                     "url": "https://file-zz40pd56-embed.com/ptsd/5j7p1jixjhy3",
+                    "isHost":"true" 
+                         },{ 
+                      "name": " Le llaman Bodhi  (1991)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                    "image": "https://pics.filmaffinity.com/point_break-935042152-mmed.jpg",
+                    "url": "https://asnwish.com/e/9t9x12ewqweo",
+                    "isHost":"true" 
+                    },{ 
+                      "name": "Prisioneros (2013)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                    "image": "https://pics.filmaffinity.com/prisoners-721879978-msmall.jpg",
+                    "url": "https://file-zz40pd56-embed.com/ptsd/3zowlrodb042",
                     "isHost":"true" 
                      }] 
             }]   

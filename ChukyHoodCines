@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 03-01-2025)",
+    "author": "chuky (Haz-Tu-Liada a 04-01-2025)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+nKU7YrkHm3plNzBi",
@@ -15,7 +15,12 @@
             "name": "Estrenos de Cine𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
-               "stations": [{         
+               "stations": [{     
+                             "name" : "Heretic (Hereje) (2024) Latino 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/heretic_hereje_103365.jpg",
+        "url" : "https://moo-teau4c9h-mkay.com/d/xh78s6hh3wy2",
+        "isHost" : "true" 
+                            },{              
                              "name" : "El 47 (2024) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://www.elseptimoarte.net/carteles/341/el_47_101781.jpg",
         "url" : "https://moo-teau4c9h-mkay.com/d/vdcmy2p5sgs3",
@@ -89,11 +94,6 @@
                            "name" : " Venom: El último baile  (2024)S𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://pics.filmaffinity.com/venom_the_last_dance-379990903-mmed.jpg",
         "url" : "https://moo-teau4c9h-mkay.com/d/xkw8nwl2ichq",
-        "isHost" : "true" 
-                           },{ 
-                             "name" : "Wicked (2024) Latino-CAM𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
-        "image" : "https://pics.filmaffinity.com/wicked_part_one-562940006-mmed.jpg",
-        "url" : "https://moo-teau4c9h-mkay.com/d/nmoevt4oz0a9",
         "isHost" : "true" 
                            },{ 
                                  "name" : "Vaiana 2 (2024) TS𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
@@ -7397,6 +7397,11 @@
                     "image": "https://pics.filmaffinity.com/alexis_zorbas-175331058-mmed.jpg",
                     "url": "https://moo-teau4c9h-mkay.com/d/29k0o4z3bcgs",
                     "isHost":"true" 
+                          },{ 
+                      "name": "Valkiria (2008)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                    "image": "https://www.elseptimoarte.net/carteles/341/valkiria_3878.jpg",
+                    "url": "https://moo-teau4c9h-mkay.com/d/33uazmoagte3",
+                    "isHost":"true"
                      }] 
             }]   
    }

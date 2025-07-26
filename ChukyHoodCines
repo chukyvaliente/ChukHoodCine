@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 24-07-2025)",
+    "author": "chuky (Haz-Tu-Liada a 26-07-2025)",
     "image": "https://i.imgur.com/rnGjRi9.jpeg",
     "info": "Enlaces de internet",
     "telegram": "+nKU7YrkHm3plNzBi",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                             "name" : "Elio (2025) TS-Latino 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/elio_104575.jpg",
+         "url" : "https://zpjid.com/d/eazca0osd",             
+         "userAgent" : "navigator"
+                                    },{ 
                                   "name" : "Op 1  Sé lo que hicisteis el último verano (2025)TS-Latino 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://www.elseptimoarte.net/carteles/341/se_lo_que_hicisteis_el_ultimo_verano_105294.jpg",
         "url" : "https://bigwarp.art/h93t2k88g3gy",             
@@ -8544,6 +8549,16 @@
         "image" : "https://www.elseptimoarte.net/carteles/341/los_otros_98667.jpg",
         "url" : "https://pyy79.art/d/9dlkq1q8ic5j",
       "userAgent" : "navigator"
+                                     },{   
+                                 "name" : "Op 1  Nop (2022) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/nop_94993.jpg",
+        "url" : "https://bigwarp.art/0vda2lo12tgy",             
+         "isHost" : "true"    
+                                 },{ 
+                             "name" : "Op 2 Nop (2022) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/nop_94993.jpg",
+         "url" : "https://zpjid.com/d/xgoe0ahsze6c",             
+         "userAgent" : "navigator"
                      }] 
             }]   
    }

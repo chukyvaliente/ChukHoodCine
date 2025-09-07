@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 06-09-2025)",
+    "author": "chuky (Haz-Tu-Liada a 07-09-2025)",
     "image": "https://i.imgur.com/rnGjRi9.jpeg",
     "info": "Enlaces de internet",
     "telegram": "+nKU7YrkHm3plNzBi",
@@ -16,6 +16,16 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                                "name" : "Op 1 El cuento del lobo (2024) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/pitufos_105386.jpg",
+          "url" : "https://bigwarp.art/au7lkwi86kto",             
+         "isHost" : "true"    
+                                 },{ 
+                                 "name" : "Op 2  El cuento del lobo (2024) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/pitufos_105386.jpg",
+         "url" : "https://zpjid.com/d/b5o44wpos5n9",             
+         "userAgent" : "navigator" 
+                                  },{  
                                    "name" : "Op 1 Pitufos (2025) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://www.elseptimoarte.net/carteles/341/pitufos_105386.jpg",
           "url" : "https://bigwarp.art/cthdf8re1yyt",             
@@ -1638,7 +1648,7 @@
                       "name": "Op 2 La búsqueda: El diario secreto (2007)𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_busqueda_el_diario_secreto_59925.jpg",
                    "url": "https://listeamed.net/e/mMq75L8z7Aw5XPB",
-                   "userAgent" : "navigator"
+                   "isHost":"true"
                          },{ 
                     "name": "La última viajera del tiempo: Rubí 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​© ",
                     "image": "https://a.wattpad.com/cover/199196927-288-k316019.jpg",
@@ -9013,6 +9023,16 @@
                              "name" : " Op 2 Promesa sangrienta (2010) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://pics.filmaffinity.com/blood_and_bone-980747555-mmed.jpg",
                             "url" : "https://lulu.st/o1bj85z7quiu",             
+          "isHost" : "true" 
+                                    },{ 
+                             "name" : " Op 1 Siempre a tu lado (Hachiko) (2008) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/siempre_a_tu_lado_55883.jpg",
+                         "url" : "https://zpjid.com/d/4jrtzhj1wqe7",             
+         "userAgent" : "navigator"
+                                    },{ 
+                             "name" : " Op 2 Siempre a tu lado (Hachiko) (2008) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/siempre_a_tu_lado_55883.jpg",
+                            "url" : "https://lulu.st/plu7rzp0ol9a",             
           "isHost" : "true" 
                      }] 
             }]   

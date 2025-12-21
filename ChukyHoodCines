@@ -16,13 +16,13 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{  
-                                 "name" : "Op 1  Bala perdida (2025) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
-        "image" : "https://www.elseptimoarte.net/carteles/341/bala_perdida_105605.jpg",
-          "url" : "https://voe.sx/89xjb3dwmz04"           
+                                 "name" : "Op 1  El jugador (2014) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/el_jugador_33465.jpg",
+          "url" : "https://voe.sx/j2zldzn0vfh0"           
                                  },{ 
-                                 "name" : "Op 2  Bala perdida (2025) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
-        "image" : "https://www.elseptimoarte.net/carteles/341/bala_perdida_105605.jpg",
-         "url" : "https://zpjid.com/d/7aqmxtk86a98",             
+                                 "name" : "Op 2  El jugador (2014) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/el_jugador_33465.jpg",
+         "url" : "https://zpjid.com/d/rv3b6ptiwckg",             
          "userAgent" : "navigator" 
                                   },{          
                                  "name" : "Op 1  Sin cobertura (2025) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
@@ -9722,6 +9722,15 @@
         "image" : "https://pics.filmaffinity.com/project_alf_tv-426897096-mmed.jpg",
          "url" : "https://abstream.to/e/bsaa11458d1c",             
            "isHost" : "true"   
+                                  },{     
+                                  "name" : "Op 1  El jugador (2014) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/el_jugador_33465.jpg",
+          "url" : "https://voe.sx/j2zldzn0vfh0"           
+                                 },{ 
+                                 "name" : "Op 2  El jugador (2014) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/el_jugador_33465.jpg",
+         "url" : "https://zpjid.com/d/rv3b6ptiwckg",             
+         "userAgent" : "navigator"      
                      }] 
             }]   
    }

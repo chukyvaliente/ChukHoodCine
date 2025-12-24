@@ -7,7 +7,7 @@
     "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
     "groups": [{
                          "name": "Lista para todo el mundo (Sin lucrarse)",
-            "image": "https://www.reasonwhy.es/media/library/cine-estudio-palomitas-espana-salas-reasonwhy.esjpg_.jpeg",
+            "image": "https://i.ibb.co/R49db1Lm/Presentaci-n1.jpg",
             "info": "",
             "stations": [{
                 }]
@@ -16,6 +16,15 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{  
+                                  "name" : "Op 1  Five Nights at Freddy's 2 (2025) Latino 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/five_nights_at_freddys_2_106847.jpg",
+          "url" : "https://abstream.to/e/zotzwjfse6ts"             
+                                 },{ 
+                                 "name" : "Op 2   Five Nights at Freddy's 2 (2025) Latino 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/five_nights_at_freddys_2_106847.jpg",
+         "url" : "https://zpjid.com/d/1zjgga9dmdti",             
+         "userAgent" : "navigator" 
+                                  },{          
                                  "name" : "Op 1  El mejor (2025) Latino 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://www.elseptimoarte.net/carteles/341/el_mejor_105907.jpg",
           "url" : "https://luluvid.com/e/ksmrzjgdcdza",

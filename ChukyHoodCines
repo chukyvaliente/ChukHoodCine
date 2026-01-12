@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 11-01-2026)",
+    "author": "chuky (Haz-Tu-Liada a 12-01-2026)",
     "image": "https://i.imgur.com/rnGjRi9.jpeg",
     "info": "Enlaces de internet",
     "telegram": "+nKU7YrkHm3plNzBi",
@@ -15,7 +15,16 @@
             "name": "Estrenos de Cine𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
-               "stations": [{ 
+               "stations": [{  
+                                  "name" : "Op 1  V/H/S/HALLOWEEN (2025) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/vhs_halloween_106491.jpg",
+         "url" : "https://voe.sx/e/wksyutzrt5go",             
+         "isHost" : "true"       
+                                 },{ 
+                                 "name" : "Op 2   V/H/S/HALLOWEEN (2025) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/vhs_halloween_106491.jpg",
+          "url" : "https://abstream.to/e/lfeotywqi183"   
+                                },{   
                                    "name" : "Op 1  Acosada (2025) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://www.elseptimoarte.net/carteles/341/acosada_106037.jpg",
           "url" : "https://abstream.to/e/yvqt8sj2bjbb",
@@ -10111,7 +10120,7 @@
                                  },{ 
                                  "name" : "Op 2  El fabuloso Andersen (1952) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://pics.filmaffinity.com/hans_christian_andersen-788429371-mmed.jpg",
-          "url" : "https://abstream.to/e/3rhhbqqhonw4"            
+          "url" : "https://abstream.to/e/3rhhbqqhonw4"                                     
                      }] 
             }]   
    }
